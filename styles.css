@@ -23,6 +23,9 @@ section {
     margin-right: 5%;
 }
 
+.filmes_e_series {
+    height: 150;
+}
 h1 {
     font-size: 40px;
 }
